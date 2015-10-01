@@ -3,8 +3,8 @@
 ##tl;dr
 This is an ongoing hobby project and an attempt to do two things:
 
-- learn go
-- make a terminal programma for keeping track about to whom I a dvd, book, game ...
+- Learn [go](https://golang.org)
+- Make a terminal program for keeping track about to whom I lent a cd, dvd, book, game ...
 
 ##Concept of usage
 
@@ -63,7 +63,7 @@ lend
 ...
 
 ##Features
-- Cross platform
+- cross platform
 - support for parented categories
 - store data local
 - store data online via an API
