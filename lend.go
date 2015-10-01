@@ -15,7 +15,7 @@ func main() {
 
 func parseArguments(args []string) {
 	switch {
-		case len(args ) == 0 :
+		case len(args) == 0 :
 			fmt.Println("Supply at lease one argument")	
 		case args[0] == "cat":
 			category(args[1:])

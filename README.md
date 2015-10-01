@@ -1,7 +1,7 @@
 #Lend
 
 ##tl;dr
-This is a hobby project and attempt to do two things
+This is an ongoing hobby project and an attempt to do two things:
 
 - learn go
 - make a terminal programma for keeping track about to whom I a dvd, book, game ...
