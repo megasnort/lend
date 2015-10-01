@@ -4,7 +4,7 @@
 This is a hobby project and attempt to do two things
 
 - learn go
-- make a terminal programma for storing information about who lend a dvd, book, game ... from me
+- make a terminal programma for keeping track about to whom I a dvd, book, game ...
 
 ##Concept of usage
 
@@ -53,7 +53,7 @@ Switch between local and online storage
 lend switch [local|online]
 
 ```
-Open interactive mode where you don't have to prefix every command with 'lend'
+Open interactive mode where you don't have to prefix every command above with 'lend'
 
 ```
 lend
