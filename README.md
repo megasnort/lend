@@ -42,10 +42,13 @@ Open interactive mode where you don't have to prefix every command above with 'l
 
 ...
 
+
 ##Features
+
 - cross platform
 - support for parented categories
 - store data local
 - store data online via an API
 - auto complete
 - ...
+- 
